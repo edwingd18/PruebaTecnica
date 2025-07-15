@@ -1,6 +1,6 @@
 # PruebaTecnica
 
-# 🧩 Clients App – Backend (Spring Boot) + Frontend (React + Vite)
+# 🧩 Clients App – Backend (Spring Boot) + Frontend (React + Next.js)
 
 Este proyecto es una aplicación fullstack que permite gestionar clientes. Está compuesto por un backend hecho con Spring Boot y un frontend desarrollado con React + Vite. Ambos están orquestados con Docker Compose para facilitar el despliegue local.
 
